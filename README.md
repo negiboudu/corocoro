@@ -1,2 +1,2 @@
 # corocoro
-elm mini game
+a mini game made with elm-playground
